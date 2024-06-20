@@ -1,0 +1,10 @@
+E:\Tasks_CSHTML\LeapYearChecker\LeapYearChecker\bin\Debug\LeapYearChecker.exe.config
+E:\Tasks_CSHTML\LeapYearChecker\LeapYearChecker\bin\Debug\LeapYearChecker.exe
+E:\Tasks_CSHTML\LeapYearChecker\LeapYearChecker\bin\Debug\LeapYearChecker.pdb
+E:\Tasks_CSHTML\LeapYearChecker\LeapYearChecker\obj\Debug\LeapYearChecker.csprojAssemblyReference.cache
+E:\Tasks_CSHTML\LeapYearChecker\LeapYearChecker\obj\Debug\LeapYearChecker.Form1.resources
+E:\Tasks_CSHTML\LeapYearChecker\LeapYearChecker\obj\Debug\LeapYearChecker.Properties.Resources.resources
+E:\Tasks_CSHTML\LeapYearChecker\LeapYearChecker\obj\Debug\LeapYearChecker.csproj.GenerateResource.cache
+E:\Tasks_CSHTML\LeapYearChecker\LeapYearChecker\obj\Debug\LeapYearChecker.csproj.CoreCompileInputs.cache
+E:\Tasks_CSHTML\LeapYearChecker\LeapYearChecker\obj\Debug\LeapYearChecker.exe
+E:\Tasks_CSHTML\LeapYearChecker\LeapYearChecker\obj\Debug\LeapYearChecker.pdb
